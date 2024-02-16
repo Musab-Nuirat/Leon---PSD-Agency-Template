@@ -31,10 +31,6 @@ Leon is a free HTML template made by **Graphberry**. It comes in a modern, flat 
 - Original PSD design by Graphberry
 
 
-## Contributing
-
-If you'd like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## Feedback
 
 If you have any feedback or suggestions, feel free to open an issue or reach out to us.
