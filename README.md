@@ -2,7 +2,7 @@
 
 ![Leon PSD Agency Template Preview](/images/screenshot-Leon-PSD-Agency-Template.png)
 
-Leon is a free HTML template made by **Graphberry**. It comes in a modern, flat design with vibrant colors. This landing page is great for the agency or other types of websites. Leon uses Free Google font, and this agency website template is fully responsive and mobile-friendly.
+Leon is a free HTML template made by **Graphberry**. It comes in a modern, flat design with vibrant colors. This landing page is great for the agency or other types of websites. Leon uses Free Google font, and this agency website template is fully responsive and mobile-friendly. I discovered this template through [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)'s YouTube channel and decided to customize it to fit my needs.
 
 ## Preview
 
@@ -28,7 +28,7 @@ Leon is a free HTML template made by **Graphberry**. It comes in a modern, flat 
 
 ## Credits
 
-- Original PSD design by Graphberry
+- Original PSD design by [Graphberry](https://www.graphberry.com/item/leon-psd-agency-template)
 
 
 ## Feedback
